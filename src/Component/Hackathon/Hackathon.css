@@ -1,0 +1,33 @@
+.LeftMenu{
+    text-align: left;
+    background-color:transparent;
+      height: -webkit-fill-available;
+      width: 35%;
+      position: fixed;
+      top: 0;
+      left: 0;
+      color: black;
+  }
+  
+  .MenuHeader{
+  
+  }
+
+  .RightScreen{
+    background-color: burlywood;
+}
+
+.Event{
+    background-color: beige;
+    color: black;
+}
+
+.button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 25px;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+  }

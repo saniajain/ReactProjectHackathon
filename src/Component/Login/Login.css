@@ -1,0 +1,21 @@
+.LoginHeader{
+
+    width: 100%;
+    align-self: center;
+    background-color: tan;
+
+}
+
+.form{
+    width: 300%;
+    text-align: left;
+    color: black;
+    
+}
+.col1{
+    width: 200%;
+}
+
+.RightScreen{
+    background-color: burlywood;
+}
